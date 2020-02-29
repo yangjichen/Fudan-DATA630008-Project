@@ -19,7 +19,7 @@ A car company were interested in evaluation the risk of their dealers. The risk 
 
 4. Please extend part (c) to include middle risk dealers. What is the performance of the three class classification?
 
-    ####2 The details Part 2 can be found in `part2.pdf`
+#### 2 The details Part 2 can be found in `part2.pdf`
 
 
 
