@@ -1,5 +1,4 @@
 ## DATA630008 - Semiparametric Modeling 
-## Final Exam – Spring 2019
 
 *Due to the confidentiality agreements, I will not provide raw data and final result. Only algorithms and techniques used for data mining are shown.*
 
